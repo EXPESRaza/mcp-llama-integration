@@ -54,6 +54,8 @@ mcp-llama-integration/
    http://localhost:11434
    http://localhost:11434/api/tags
    ```
+   ![image](https://github.com/user-attachments/assets/6ad22789-4e86-4732-8305-fd8afded8321)
+
 
 ## Running the MCP Server
 
@@ -66,6 +68,10 @@ mcp-llama-integration/
    ```bash
    curl http://localhost:8000/health
    ```
+   ![image](https://github.com/user-attachments/assets/ca97173e-0dec-4f2e-865d-4f87c082091d)
+
+   ![image](https://github.com/user-attachments/assets/de781fe7-3830-45a0-b719-d2924a6a1df1)
+
 
 ## Using the Client Application
 
@@ -76,6 +82,9 @@ mcp-llama-integration/
 2. The application will prompt you for input
 3. Type your queries and receive responses from the Llama model
 4. Type 'exit' to quit the application
+
+   ![image](https://github.com/user-attachments/assets/1bbe216d-0201-4a72-9384-5ed6d28fa5aa)
+
 
 ## API Documentation
 
