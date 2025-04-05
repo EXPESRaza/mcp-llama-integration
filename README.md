@@ -45,11 +45,14 @@ mcp-llama-integration/
 1. If you haven't already, install [Ollama](https://ollama.ai/download)
 2. Pull the Llama model:
    ```bash
-   ollama pull llama3
+   ollama pull llama3.2
    ```
 3. Verify the model is running:
    ```bash
    curl http://localhost:11434/api/tags
+   ``` browser
+   http://localhost:11434
+   http://localhost:11434/api/tags
    ```
 
 ## Running the MCP Server
